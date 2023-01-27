@@ -45,7 +45,6 @@ div{
 
 .red, .blue, .yellow, .green{
     padding: 20px;
-    border: 3px solid white;
 }
 
 .red{
@@ -55,7 +54,7 @@ div{
     border-bottom: 2px solid;
     border-left: 5px solid;
 }
-/*  */
+
 .blue{
     background-color: #0000FF;
     text-align: left;
